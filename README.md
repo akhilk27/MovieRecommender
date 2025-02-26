@@ -17,3 +17,8 @@ This project uses TF-IDF vectorization and cosine similarity to recommend movies
 
 ## Deployment
 Deployable on Streamlit Sharing or Heroku (requires additional setup).
+
+
+
+![Screenshot of Movie Recommender](images/movie-rec1.png "Movie Recommender Interface")
+![Poster Display](images/movie-rec2.png "Movie Posters")
